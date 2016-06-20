@@ -26,7 +26,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("svdsfvdsfv");
         }
-
+        public void kkkk333()
+        {
+            MessageBox.Show("svdsfvdsfv");
+        }
 
     }
 }
