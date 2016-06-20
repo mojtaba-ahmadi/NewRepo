@@ -16,5 +16,12 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        public void kkkk()
+        {
+
+        }
+
+
     }
 }
